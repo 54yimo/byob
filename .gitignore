@@ -1,5 +1,7 @@
 *.pyc
 *.db
+venv
+.idea
 byob/data/
 byob/modules/payloads/
 byob/modules/stagers/

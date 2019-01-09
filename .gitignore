@@ -5,3 +5,4 @@ venv
 byob/data/
 byob/modules/payloads/
 byob/modules/stagers/
+byob/dist
